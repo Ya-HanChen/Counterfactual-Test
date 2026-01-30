@@ -5,8 +5,8 @@ The code reproduces all main figures and tables reported in the manuscript using
 
 ## Software Requirements
 All analyses are conducted using Python.
-Required user-written Python packages:
-TarNet
+
+Required user-written Python packages: TarNet
 
 ## Data Availability
 The dataset used in this study is not publicly available.
