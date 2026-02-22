@@ -1,4 +1,4 @@
-# Counterfactual-Test
+# Counterfactual-Text
 # Replication Code
 This repository contains the Python replication code for the analysis in our paper. 
 The code reproduces all main figures and tables reported in the manuscript using generateive counterfactual text and TarNet.
